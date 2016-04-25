@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./godofrediherman00fritgoog_0013.png"; bbox 0 0 3192 4992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 1535 2652 2000">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 1535 2652 2000">
+     <span class='ocr_line' id='line_1_1' title="bbox 723 1535 2242 1624; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 723 1535 1490 1623; x_wconf 76' lang='lat' dir='ltr'><strong>GODOFREDI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1568 1536 2242 1624; x_wconf 80' lang='lat' dir='ltr'>HERMANNI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 357 1756 2652 2000; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 357 1756 541 1997; x_wconf 56' lang='grc' dir='ltr'><strong>θ’ι</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 657 1858 778 1999; x_wconf 81' lang='lat'><strong>1&gt;</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 955 1860 1073 2000; x_wconf 87' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_6' title='bbox 1251 1858 1368 2000; x_wconf 89' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_7' title='bbox 1542 1863 1650 2000; x_wconf 83' lang='lat' dir='ltr'><strong>c</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1827 1861 1949 2000; x_wconf 88' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_9' title='bbox 2103 1826 2652 2000; x_wconf 72' lang='lat' dir='ltr'><strong>·L2A.&lt;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1204 2253 1758 2330">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1204 2253 1758 2330">
+     <span class='ocr_line' id='line_1_3' title="bbox 1204 2253 1758 2330; baseline -0.002 -1"><span class='ocrx_word' id='word_1_10' title='bbox 1204 2253 1478 2330; x_wconf 65' lang='lat' dir='ltr'><strong>vol„</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1546 2254 1758 2329; x_wconf 84' lang='lat' dir='ltr'><strong>Vll.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
